@@ -18,17 +18,29 @@ I build full-stack projects with Python, PHP, React, SQL, and modern web technol
 
 ## Featured projects
 
+### VLU Lost & Found
+
+A responsive lost-and-found platform for the Văn Lang University community, built with React, TypeScript, and TanStack Start.
+
+[View repository](https://github.com/HARU-06/vlu-connect-find)
+
+### Van Lang Alumni Ecosystem
+
+A bilingual alumni-networking prototype with profiles, mentoring, opportunities, events, and a digital alumni identity.
+
+[View repository](https://github.com/HARU-06/alumni-weave-vlu)
+
+### Meeting Management Workspace
+
+A Vietnamese meeting-scheduling interface covering calendars, rooms, invitations, notifications, and personal meeting workflows.
+
+[View repository](https://github.com/HARU-06/your-perfect-page)
+
 ### Manga Data Platform
 
-A multi-service project for collecting and managing manga metadata with Python, Flask, PHP, and MySQL.
+A multi-service data collection and management project using Python, Flask, PHP, and MySQL.
 
 [View repository](https://github.com/HARU-06/comic) · [Live demo](https://comic-gamma-one.vercel.app)
-
-### Cơm Viên Restaurant Management
-
-A PHP/MySQL restaurant application with menu browsing, cart features, authentication, and administrative tools.
-
-[View repository](https://github.com/HARU-06/quanlycomvien)
 
 ## Current focus
 
